@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030561802295",
+    "project_id": "teaapp-b9a4a",
+    "storage_bucket": "teaapp-b9a4a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030561802295:android:d5148e415e9de105ee77b2",
+        "android_client_info": {
+          "package_name": "com.example.tea_dairy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzs8wOcHtN-8eMoLEm8w2xFPz-6LDWngE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
